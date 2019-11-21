@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/AsCSAU-OPS/dashJS/badge.svg?branch=master)](https://coveralls.io/github/AsCSAU-OPS/dashJS?branch=master)
+[![Build Status](https://travis-ci.org/AsCSAU-OPS/dashJS.svg?branch=master)](https://travis-ci.org/AsCSAU-OPS/dashJS)
 # DashingJS2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
